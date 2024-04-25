@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Hinesh!
-⚡ I Graduated from Mechanical Engineering (Mechatronics Specialization) from Toronto Metropolitan University <br> 😁 I’m passionate about product design, tech, creativity and collaboration<br>🌱 I’m currently improving skills in ML/AI, Data Science, and Full Stack development<br>💬 Feel free to reach out on LinkedIn!
+⚡ I Graduated from Mechanical Engineering (Mechatronics Specialization) from Toronto Metropolitan University <br> 😁 I’m passionate about product design and software development <br>🌱 I’m currently improving skills in ML/AI, Data Science, and Full Stack development<br>💬 Feel free to reach out on LinkedIn!
 
 
 ## 🌐 Socials
