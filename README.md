@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡ Graduated from Mechanical Engineering (Mechatronics Specialization) <br>from Toronto Metropolitan University (Formerly Ryerson University)<br>🤝 I’m passionate about product design, tech, creativity and collaboration<br>🌱 I’m currently improving skills in ML/AI, Data Science, and Full Stack development<br>💬 Feel free to message me on LinkedIn!
+⚡ Graduated from Mechanical Engineering (Mechatronics Specialization) <br>  from Toronto Metropolitan University (Formerly Ryerson University)<br>🤝 I’m passionate about product design, tech, creativity and collaboration<br>🌱 I’m currently improving skills in ML/AI, Data Science, and Full Stack development<br>💬 Feel free to message me on LinkedIn!
 
 
 ## 🌐 Socials:
