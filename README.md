@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Hinesh!
 ⚡ I Graduated from Mechanical Engineering (Mechatronics Specialization) from Toronto Metropolitan University 
-<br> 😁 I’m passionate about Product Design and Software Development 
+<br> 😁 I’m passionate about Tech, Product Design and Software Development 
 <br>🌱 I’m currently improving skills in ML/AI, Data Science, and Full Stack development
 <br>💬 Feel free to reach out on LinkedIn! <br/>
 <br>![](https://github-readme-stats.vercel.app/api?username=hineshm&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
