@@ -36,7 +36,7 @@
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
 <p align="center"> 
-[![](https://visitcount.itsvg.in/api?id=hineshm&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=hineshm&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
