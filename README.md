@@ -35,7 +35,7 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
-<p align="center">
+
 ![](https://visitcount.itsvg.in/api?id=hineshm&label=Profile%20Views&color=0&icon=0&pretty=false)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
