@@ -3,7 +3,6 @@
 <br> 💻 I’m passionate about Tech, Product Design and Software Development 
 <br>🌱 I’m currently improving skills in ML/AI, Data Science, and Software Engineering
 <br>💬 Feel free to reach out on LinkedIn! <br/>
-<br>![](https://github-readme-stats.vercel.app/api?username=hineshm&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 # 👨‍💻 My Tech Stack
 # Languages
@@ -35,6 +34,7 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
+<br>![](https://github-readme-stats.vercel.app/api?username=hineshm&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 ![](https://visitcount.itsvg.in/api?id=hineshm&label=Profile%20Views&color=0&icon=0&pretty=false)
 
